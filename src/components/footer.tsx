@@ -1,9 +1,9 @@
 import React from 'react'
 
-const footer = () => {
+const Footer = () => {
   return (
-    <div className='w-full text-4xl text-center bg-red-400 '>footer page here</div>
+    <div>footer part</div>
   )
 }
 
-export default footer
+export default Footer
